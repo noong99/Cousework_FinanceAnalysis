@@ -47,26 +47,27 @@ To run this project:
 3. Run the selected notebook to perform sentiment analysis! ☺︎𓂭
 
 ### Project Directory Structure
-/Project
-│
-├── /data_analysis
-│   └── data_analysis.ipynb
-│
-├── /models
-│   ├── model_finbert.py
-│   ├── model_lstm_bert.py
-│   └── model_finbert_lstm.py
-│
-├── /docs
-│   ├── ProjectProposal.pdf
-│   └── FinalProject.pdf
-│
-├── /data
-│   └── news_data_sampled.csv
-│
-├── sentiment_finbert.ipynb
-├── sentiment_lstm.ipynb
-└── sentiment_finbert_lstm.ipynb
+/Project  
+│  
+├── /data_analysis  
+│   └── data_analysis.ipynb  
+│  
+├── /models  
+│   ├── model_finbert.py  
+│   ├── model_lstm_bert.py  
+│   └── model_finbert_lstm.py  
+│  
+├── /docs  
+│   ├── ProjectProposal.pdf  
+│   └── FinalProject.pdf  
+│  
+├── /data  
+│   └── news_data_sampled.csv  
+│  
+├── sentiment_finbert.ipynb  
+├── sentiment_lstm.ipynb  
+└── sentiment_finbert_lstm.ipynb  
+
 
 
 
