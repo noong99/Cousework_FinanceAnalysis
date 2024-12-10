@@ -47,6 +47,7 @@ To run this project:
 3. Run the selected notebook to perform sentiment analysis! ☺︎𓂭
 
 ### Project Directory Structure
+
 /Project  
 │  
 ├── /data_analysis  
