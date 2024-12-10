@@ -1,6 +1,8 @@
 # stats507
 This is coursework repo for University of Michigan STATS 507 Data Science and Analytics using Python.
 
+
+
 # Project
 Financial News Sentiment Analysis with FinBERT and LSTM
 
@@ -33,6 +35,39 @@ This project focuses on sentiment analysis of financial news articles to support
 
 ### Results
 The results indicate that FinBERT achieves the best overall accuracy, while the hybrid model demonstrates the potential to capture sequential patterns and sentiment for better overall understanding.
+
+### How to Run
+To run this project:
+
+1. Download the dataset file: Project/data/news_data_sampled.csv.
+2. Open the relevant .ipynb file in the Project directory, depending on the model you want to execute:
+  - sentiment_finbert.ipynb for FinBERT
+  - sentiment_lstm.ipynb for LSTM
+  - sentiment_finbert_lstm.ipynb for FinBERT + LSTM
+3. Run the selected notebook to perform sentiment analysis! ☺︎𓂭
+
+### Project Directory Structure
+/Project
+│
+├── /data_analysis
+│   └── data_analysis.ipynb
+│
+├── /models
+│   ├── model_finbert.py
+│   ├── model_lstm_bert.py
+│   └── model_finbert_lstm.py
+│
+├── /docs
+│   ├── ProjectProposal.pdf
+│   └── FinalProject.pdf
+│
+├── /data
+│   └── news_data_sampled.csv
+│
+├── sentiment_finbert.ipynb
+├── sentiment_lstm.ipynb
+└── sentiment_finbert_lstm.ipynb
+
 
 
 
