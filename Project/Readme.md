@@ -45,21 +45,21 @@ To run this project:
 ### Project Directory Structure
 
 ```plaintext
-/Project  
+Project  
 │  
-├── /data_analysis  
+├── data_analysis  
 │   └── data_analysis.ipynb  
 │  
-├── /models  
+├── models  
 │   ├── model_finbert.py  
 │   ├── model_lstm_bert.py  
 │   └── model_finbert_lstm.py  
 │  
-├── /docs  
+├── docs  
 │   ├── ProjectProposal.pdf  
 │   └── FinalProject.pdf  
 │  
-├── /data  
+├── data  
 │   └── news_data_sampled.csv  
 │  
 ├── sentiment_finbert.ipynb  
