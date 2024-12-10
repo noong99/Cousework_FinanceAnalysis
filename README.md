@@ -44,7 +44,7 @@ To run this project:
   - sentiment_finbert.ipynb for FinBERT
   - sentiment_lstm.ipynb for LSTM
   - sentiment_finbert_lstm.ipynb for FinBERT + LSTM
-3. Run the selected notebook to perform sentiment analysis! ☺︎𓂭
+3. Run the selected notebook to perform sentiment analysis!
 
 ### Project Directory Structure
 
