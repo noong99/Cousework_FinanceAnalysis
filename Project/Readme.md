@@ -38,7 +38,7 @@ To run this project:
 1. Download the dataset file: Project/data/news_data_sampled.csv.
 2. Open the relevant .ipynb file in the Project directory, depending on the model you want to execute:
   - sentiment_finbert.ipynb for FinBERT
-  - sentiment_lstm.ipynb for LSTM
+  - sentiment_lstm_bert.ipynb for LSTM
   - sentiment_finbert_lstm.ipynb for FinBERT + LSTM
 3. Run the selected notebook to perform sentiment analysis!
 
@@ -63,5 +63,5 @@ Project
 │   └── news_data_sampled.csv  
 │  
 ├── sentiment_finbert.ipynb  
-├── sentiment_lstm.ipynb  
+├── sentiment_lstm_bert.ipynb  
 └── sentiment_finbert_lstm.ipynb  
