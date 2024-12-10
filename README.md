@@ -22,3 +22,18 @@ This project focuses on sentiment analysis of financial news articles to support
   - Stratified 6:2:2 split into training, validation, and testing sets.
   - Applied SMOTE to balance sentiment classes.
 
+### Methodology
+
+1. FinBERT Sentiment Analysis:
+  - Pre-trained FinBERT model applied to classify sentiment in financial text.
+2. LSTM Model Training:
+  - Sequential dependencies in text captured through LSTM networks.
+3. Hybrid Approach:
+  - FinBERT-generated embeddings combined with LSTM for enhanced performance.
+
+### Results
+The results indicate that FinBERT achieves the best overall accuracy, while the hybrid model demonstrates the potential to capture sequential patterns and sentiment for better overall understanding.
+
+
+
+
