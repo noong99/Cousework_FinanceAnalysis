@@ -44,6 +44,7 @@ To run this project:
 
 ### Project Directory Structure
 
+```plaintext
 /Project  
 │  
 ├── /data_analysis  
