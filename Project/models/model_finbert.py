@@ -11,7 +11,7 @@ import multiprocessing
 import numpy as np
 import pandas as pd
 
-file_path = 'news_data_sampled.csv'
+file_path = '../data/news_data_sampled.csv'
 df = pd.read_csv(file_path)
 
 # 0: Negative, 1: Neutral, 2: Positive
